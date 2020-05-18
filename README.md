@@ -1,5 +1,5 @@
 # An agent-based model of insect resistance management and mitigation for Bt maize: A social science perspective
-by [Yuji Saikai](https:yujisaikai.com), [Terrance M. Hurley](https://www.apec.umn.edu/people/terrance-hurley) & [Paul D. Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
+by [Yuji Saikai](https://yujisaikai.com), [Terrance M. Hurley](https://www.apec.umn.edu/people/terrance-hurley) & [Paul D. Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
 
 - Based on [Mesa](https://github.com/projectmesa/mesa)
 - Execute ``run.py`` with argument of ``1`` or ``2`` (e.g. ``python run.py 1``)
@@ -8,6 +8,7 @@ by [Yuji Saikai](https:yujisaikai.com), [Terrance M. Hurley](https://www.apec.um
 - Edit parameters in ``run.py`` for different specification (e.g., landscape size, max steps, random seed, etc.)
 - Execute ``batch_policy.py`` for policy experiments
   - It rus parallel using all the CPU cores available
+  - Results are saved in ``output``
 
 &nbsp;
 
