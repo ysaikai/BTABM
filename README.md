@@ -6,6 +6,8 @@ by [Yuji Saikai](https:yujisaikai.com), [Terrance M. Hurley](https://www.apec.um
   - ``1`` for browser visualization
   - ``2`` for detailed specification
 - Edit parameters in ``run.py`` for different specification (e.g., landscape size, max steps, random seed, etc.)
+- Execute ``batch_policy.py`` for policy experiments
+  - It rus parallel using all the CPU cores available
 
 &nbsp;
 
