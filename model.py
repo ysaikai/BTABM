@@ -11,11 +11,11 @@ class BTABM(Model):
   proportion_corn = .44 # Corn fields / Cropped land
   base_refuge = .05
   rs_survival = 0.18
-  price = 100 # output price
-  harvest = 10
-  costs = 910
-  spray_cost = 32 # cost of spraying
-  fees = [17.49, 17.49, 17.49, 17.49, 17.49, 17.49, 17.49, 17.49, 17.45, 17.45,
+  price = 129.91 # output price
+  harvest = 10.92
+  costs = 1202.51
+  spray_cost = 33.51 # cost of spraying
+  fees = [17.49, 17.49, 17.49, 17.49, 17.49, 17.49, 17.49, 17.49, 17.45, 17.04,
     15.78, 13.75, 11.41, 9.18, 8.29, 7.82, 7.39, 7.04]
 
   adoption_data = [.01, .08, .13, .10, .14, .12, .17, .23, .24, .28, .32, .41,
