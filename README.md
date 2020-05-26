@@ -1,7 +1,7 @@
 # An agent-based model of insect resistance management and mitigation for Bt maize: A social science perspective
 by [Yuji Saikai](https://yujisaikai.com), [Terrance M. Hurley](https://www.apec.umn.edu/people/terrance-hurley) & [Paul D. Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
 
-- Based on [Mesa](https://github.com/projectmesa/mesa)
+- Based on [Mesa](https://github.com/projectmesa/mesa) (0.8.5)
 - Execute ``run.py`` with argument of ``1`` or ``2`` (e.g. ``python run.py 1``)
   - ``1`` for browser visualization
   - ``2`` for detailed specification
